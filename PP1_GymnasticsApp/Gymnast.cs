@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PP1_GymnasticsApp
 {
-    class Beam : Apparatus
+    class Gymnast : Team
     {
     }
 }

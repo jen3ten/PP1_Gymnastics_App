@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace PP1_GymnasticsApp
 {
-    class Bar : Apparatus
+    class Parent : Team
     {
+        //Fields
+        private string childName;
+
+        //Properties
+        public string ChildName { get; set; }
     }
 }
