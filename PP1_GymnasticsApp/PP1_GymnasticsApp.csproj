@@ -43,8 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Apparatus.cs" />
+    <Compile Include="Bar.cs" />
+    <Compile Include="Beam.cs" />
+    <Compile Include="Floor.cs" />
+    <Compile Include="Meet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vault.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
