@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PP1_GymnasticsApp
 {
-    class Parent : Team
+    class Parent : Person
     {
         //Fields
         private string childName;

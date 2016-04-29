@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PP1_GymnasticsApp
 {
-    class Coach : Team
+    class Coach : Person
     {
         //Fields
         private string apparatus;
