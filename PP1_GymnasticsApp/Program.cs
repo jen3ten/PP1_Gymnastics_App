@@ -41,6 +41,10 @@ namespace PP1_GymnasticsApp
             } while (i < 5);
 
                 meetTextFile.Close();
+            foreach(Meet meet in meetList)
+            {
+                Console.WriteLine(meet.Name);
+            }
 
 
         }
