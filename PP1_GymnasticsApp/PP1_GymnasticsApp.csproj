@@ -47,6 +47,7 @@
     <Compile Include="Gymnast.cs" />
     <Compile Include="Meet.cs" />
     <Compile Include="Parent.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Team.cs" />
